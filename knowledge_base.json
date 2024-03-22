@@ -1,0 +1,36 @@
+{
+    "questions":[
+        {
+            "question": "How are you?",
+            "answer" : "I am fine, what about you?"
+        },
+        {
+            "question": "Who are you?",
+            "answer":"I am a chatbot"
+        },
+        {
+            "question": "How's your day going?",
+            "answer": "It's been good so far, thanks for asking. How about you?"
+        },
+        {
+            "question": "What's new?",
+            "answer": "Not much, just [activity]. How about you?"
+        },
+        {
+            "question": "How's work/school?",
+            "answer": "Work/school has been busy but good. How about you?"
+        },
+        {
+            "question": "How was your weekend?",
+            "answer": "My weekend was great, thanks for asking. How about yours?"
+        },
+        {
+            "question": "How's the weather?",
+            "answer": "The weather's been [description], how about where you are?"
+        },
+        {
+            "question": "What's your favorite hobby?",
+            "answer": "I enjoy [hobby], how about you?"
+        }
+    ]
+}
